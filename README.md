@@ -10,7 +10,9 @@
   <body>
     <h1>Hi, my name is Joseph and this is my website.</h1>
     <br>
-    <h2>It's currently under maintenance, but feel free to send me an email!</h2>
-    <img src=Paper.Airplane.gif>
+    <h2>It's currently under maintenance, but feel free to send me a message!</h2>
+      <video width="1280" height="720" controls>
+        <source src="Paper.Airplane.mp4" type="video/mp4">
+      </video>
   </body>
 </html>
