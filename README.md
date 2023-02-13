@@ -5,6 +5,7 @@
        h1 {text-align: center;}
        h2 {text-align: center;}
        img {text-align: center;}
+       video {text-align: center;}
     </style>
   </head>
   <body>
