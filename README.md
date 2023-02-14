@@ -4,7 +4,10 @@
      <style>
        h1 {text-align: center;}
        h2 {text-align: center;}
-       img {text-align: center;}
+       img {
+           text-align: center;
+           width: auto;
+       }
        video {text-align: center;}
        .box {
           display: flex;
